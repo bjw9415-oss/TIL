@@ -15,10 +15,10 @@ CLONE 은 만약 내 컴퓨터나 다른 작업장소에서 작업을 하려고 
 
 - GITHUB 프로필 꾸미기
 여러가지 꾸미는 방법이 있다. 
-[헤드꾸미기](https://capsule-render.vercel.app/)
-[방문자수체크](https://hits.sh/)
-[BOJ배지](https://github.com/mazassumnida/mazassumnida)
-[프로필 생성기](https://qus0in.github.io/paste_profile/)
+1. [헤드꾸미기](https://capsule-render.vercel.app/)
+2. [방문자수체크](https://hits.sh/)
+3. [BOJ배지](https://github.com/mazassumnida/mazassumnida)
+4. [프로필 생성기](https://qus0in.github.io/paste_profile/)
 
 ## 어제 배운것 요약 
 ```
